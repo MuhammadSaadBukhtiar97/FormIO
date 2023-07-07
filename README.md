@@ -16,12 +16,12 @@ Repeat this process for the "Email" and "Message" fields.
 
 Customize Form Elements:
 Once you've added your form elements, you can customize them to suit your needs. For example, you can change the label text, add placeholder text, or set validation rules.
-To customize a form element, simply click on it to select it, and then use the options panel on the right-hand side of the screen to make changes. For example, you might want to set the "Email" field to require a valid email address by selecting the "Validation" tab and checking the "Email" checkbox.
-![image](https://github.com/MuhammadSaadBukhtiar97/FormIO/assets/57248503/274b7937-04de-4643-b64d-8421d10d0902)
+
+To customize a form element, simply click on it to select it, and then use the options panel on the right-hand side of the screen to make changes. 
+For example, you might want to set the "Email" field to require a valid email address by selecting the "Validation" tab and checking the "Email" checkbox.
 
 Basic components:
 Text field:
-![image](https://github.com/MuhammadSaadBukhtiar97/FormIO/assets/57248503/d0a1d851-c797-48c5-b355-f7de5dffbee6)
 A Text Field can be used for short and general text input. There are options to define input masks and validations.
 
 Text Area:
