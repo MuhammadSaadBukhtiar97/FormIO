@@ -112,47 +112,21 @@ There’re also many validations which include the min/max length, make the fiel
 3- You can add the default values of fields. Field text case can also be selected.
 e.g. Selecting upper case will convert the value in uppercase
  
-
 4-	You can Preview the form by selecting Preview option on bottom right corner
-
- 
-
-
-
 
 5-	This is the output of preview.
  
-
 6-	You can add Select/Dropdown menu and its values can be added in advanced tab as shown below.
-
- 
-
- 
 
 7-	Custom CSS classes can also be added to containers like shown in below example.
 
- 
-
-
-
-
-
-
 8-	URL can also be used as data source which will show the response data.
 
- 
-  
-
 9-	Here I’m doing custom calculations to evaluate the results of fields.
- 
-
 
 10-	Custom validations can also be added. Here I’ve added a regular expression to validate email.
 
- 
 11-	Using data grid we can add fields dynamically on the run as shown in below image.
- 
-
 
 12-	 At the end after creating the form we will save it for further operations.
  
@@ -160,10 +134,3 @@ e.g. Selecting upper case will convert the value in uppercase
 Conclusion: 
 Using Form.Io’s drag-and-drop form builder, you can quickly and easily create custom forms without any coding.
 ![image](https://github.com/MuhammadSaadBukhtiar97/FormIO/assets/57248503/4182575e-57fc-4a48-b9de-437292e07d88)
-
-
-
-
-
-
-
